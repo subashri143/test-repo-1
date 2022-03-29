@@ -3,17 +3,8 @@
 
 
 
-<<<<<<< HEAD
-=======
 
 
-=======
-git config --global merge.tool "vimdiff"
-git config --global core.editor "vim"
-git mergetool
->>>>>>> 3abd1d6e954a5fbd55b3ab190aabc3839f4eb5cd
-
->>>>>>> 3825c15a8c28dbadf9f6f5c82f44651306ca1169
 Learning conflicts between 5 developers dev1
 git config --global merge.tool "vimdiff"
 git config --global core.editor "vim"
