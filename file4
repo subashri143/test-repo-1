@@ -5,6 +5,12 @@
 
 
 
+=======
+git config --global merge.tool "vimdiff"
+git config --global core.editor "vim"
+git mergetool
+>>>>>>> 3abd1d6e954a5fbd55b3ab190aabc3839f4eb5cd
+
 Learning conflicts between 5 developers dev1
 git config --global merge.tool "vimdiff"
 git config --global core.editor "vim"
