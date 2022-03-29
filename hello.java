@@ -6,7 +6,7 @@ Learning conflict
 {
 	Public Static void main ()
 	{
+<<<<<<< HEAD
 		System.out.println ("hello")
-	}
-}
+
 
