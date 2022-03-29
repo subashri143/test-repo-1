@@ -1,0 +1,8 @@
+
+
+Learning conflicts between 5 developers dev4
+git config --global merge.tool "vimdiff"
+git config --global core.editor "vim"
+git mergetool
+Resolve it by dev4
+
