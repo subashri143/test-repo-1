@@ -3,6 +3,8 @@
 
 
 
+
+
 Learning conflicts between 5 developers dev1
 git config --global merge.tool "vimdiff"
 git config --global core.editor "vim"
