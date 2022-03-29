@@ -1,6 +1,12 @@
-Learning conflicts between 5 developers dev2
+
+
+
+
+
+Learning conflicts between 5 developers dev1
 git config --global merge.tool "vimdiff"
 git config --global core.editor "vim"
 git mergetool
-Resolve it by dev2
+Resolve it by dev1
+>>>>>>> 98cdf8114d56958397a01a56dc7ebb8e78e7e24c
 
